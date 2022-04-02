@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>clock-white</title>
+    <g id="Blog-Redesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-279.000000, -34.000000)">
+            <g id="Group-8" transform="translate(145.000000, 34.000000)">
+                <g id="clock-white" transform="translate(134.340987, 0.000000)">
+                    <polygon id="Path" points="0 0 18 0 18 18 0 18"></polygon>
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" cx="9" cy="9" r="7"></circle>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" points="9 5 9 8.75 11 11"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

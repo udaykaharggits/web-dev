@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Lineto-circular-pro;
+    font-weight: 600;
+    src: url(lineto-circular-pro-bold.woff2) format('woff2'),
+        url(lineto-circular-pro-bold.woff) format('woff'),
+        url(lineto-circular-pro-bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: Lineto-circular-pro;
+    font-weight: 400;
+    src: url(lineto-circular-pro-book.woff2) format('woff2'),
+        url(lineto-circular-pro-book.woff) format('woff'),
+        url(lineto-circular-pro-book.ttf) format('truetype');
+}
+@font-face {
+    font-family: Lineto-circular-pro;
+    font-weight: 500;
+    src: url(lineto-circular-pro-medium.woff2) format('woff2'),
+        url(lineto-circular-pro-medium.woff) format('woff'),
+        url(lineto-circular-pro-medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: Lineto-circular-pro;
+    font-weight: 500;
+    font-style:italic;
+    src: url(lineto-circular-pro-mediumItalic.woff2) format('woff2'),
+        url(lineto-circular-pro-mediumItalic.woff) format('woff'),
+        url(lineto-circular-pro-mediumItalic.ttf) format('truetype');
+}
+@font-face {
+    font-family: Lineto-circular-pro;
+    font-weight: 400;
+    font-style:italic;
+    src: url(lineto-circular-pro-bookItalic.woff2) format('woff2'),
+        url(lineto-circular-pro-bookItalic.woff) format('woff'),
+        url(lineto-circular-pro-bookItalic.ttf) format('truetype');
+}
